@@ -65,6 +65,17 @@ namespace LINQSolution01
             //}
             #endregion
 
+
+            #region Question06
+            //var products = Source.ProductList
+            //               .Select(p => new { Name = p.ProductName , Price = p.UnitPrice , StockStatus = p.UnitsInStock > 0 ? "Available" : "Out of Stock" });
+
+            //foreach (var item in products)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+
         }
     }
 }
