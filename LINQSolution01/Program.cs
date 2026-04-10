@@ -98,6 +98,19 @@ namespace LINQSolution01
             //}
             #endregion
 
+
+            #region Question09
+            //var products = Source.ProductList
+            //    .Where(p => p.Category == "Beverages")
+            //    .OrderByDescending(p => p.UnitsInStock)
+            //    .Select(p => new { Name = p.ProductName , Stock = p.UnitsInStock });
+
+            //foreach (var item in products)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+
         }
     }
 }
