@@ -17,6 +17,20 @@ namespace LINQSolution01
             //    Console.WriteLine(item);
             //}
             #endregion
+
+
+            #region Question02
+            // Get a list of only the product names from ProductList. Print each name.
+
+            //var productNames = Source.ProductList.Select(p => new { p.ProductName });
+
+            //foreach (var item in productNames)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+
+
         }
     }
 }
