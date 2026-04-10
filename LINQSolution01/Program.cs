@@ -87,6 +87,17 @@ namespace LINQSolution01
             //}
             #endregion
 
+
+            #region Question08
+            //var products = Source.ProductList
+            //               .OrderBy(p => p.Category).ThenByDescending(p => p.UnitPrice);
+
+            //foreach (var item in products)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+
         }
     }
 }
