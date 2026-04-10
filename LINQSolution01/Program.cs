@@ -76,6 +76,17 @@ namespace LINQSolution01
             //}
             #endregion
 
+
+            #region Question07
+            //var products = Source.ProductList
+            //               .Select((p, index) => new { Position = index + 1 , Name = p.ProductName });
+
+            //foreach (var item in products)
+            //{
+            //    Console.WriteLine($"{item.Position} , {item.Name}");
+            //}
+            #endregion
+
         }
     }
 }
