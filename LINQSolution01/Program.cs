@@ -111,6 +111,20 @@ namespace LINQSolution01
             //}
             #endregion
 
+
+            #region Question10
+            //var products = from c in Source.CustomerList
+            //               from o in c.Orders
+            //               where o.OrderDate >= new DateTime(1997, 1, 1)
+            //               select new { c.CustomerID, o.OrderDate };
+
+            //foreach (var item in products)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+
+
         }
     }
 }
