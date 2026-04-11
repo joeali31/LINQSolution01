@@ -125,6 +125,16 @@ namespace LINQSolution01
             #endregion
 
 
+            #region Question11
+            //var products = Source.ProductList.Select((p, i) => $"Name = {p.ProductName} => #{i + 1}");
+
+            //foreach (var item in products)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+
+
         }
     }
 }
