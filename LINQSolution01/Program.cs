@@ -147,6 +147,18 @@ namespace LINQSolution01
             #endregion
 
 
+            #region Question13
+            //int[] digits = [2, 5, 8, 9, 7, 6, 3, 1, 4];
+
+            //var result = digits.Where((d, i) => d == i + 1).Reverse();
+
+            //foreach (var item in result)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
+
         }
     }
 }
