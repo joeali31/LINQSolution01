@@ -135,6 +135,18 @@ namespace LINQSolution01
             #endregion
 
 
+            #region Question12
+            //string[] words = ["aPPLE", "AbAcUs", "bRaNcH", "BlUeBeRrY", "ClOvEr", "cHeRry"];
+
+            //var sortedWords = words.OrderBy(x => x.Length).ThenBy(x => x, StringComparer.OrdinalIgnoreCase);
+
+            //foreach (var item in sortedWords)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+
+
         }
     }
 }
